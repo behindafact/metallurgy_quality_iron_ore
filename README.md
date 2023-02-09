@@ -1,6 +1,8 @@
 # Predicción de calidad en procesos
 El objetivo principal es utilizar estos datos para predecir cuánta impureza hay en el concentrado de mineral. Como esta impureza se mide cada hora, si podemos predecir cuánta sílice (impureza) hay en el concentrado de mineral, podremos ayudar a los ingenieros, dándoles información temprana para que tomen medidas (¡potenciadoras!). De este modo, podrán tomar medidas correctivas con antelación (reducir la impureza, si es el caso) y también ayudar al medio ambiente (reducir la cantidad de mineral que va a parar a los vertederos a medida que se reduce la sílice en el concentrado de mineral).
 
+![image](https://user-images.githubusercontent.com/75042933/217850174-de1770d2-8184-4506-9039-51f347875f37.png)
+
 
 -   Datos: Colección de información en tiempo casi real
 -   % Iron Feed: Porcentaje de Hierro que proviene del mineral de hierro que entra a las celdas de flotación 
